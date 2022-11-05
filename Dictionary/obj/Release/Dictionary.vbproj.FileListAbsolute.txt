@@ -1,0 +1,10 @@
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.Form1.resources
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.Resources.resources
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.vbproj.GenerateResource.Cache
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\bin\Release\Dictionary.exe.config
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\bin\Release\Dictionary.exe
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\bin\Release\Dictionary.pdb
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\bin\Release\Dictionary.xml
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.exe
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.xml
+E:\Projects\MyDotNetProjects\Dictionary\Dictionary\obj\Release\Dictionary.pdb
